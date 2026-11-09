@@ -1,4 +1,7 @@
 # Banco de Dados - Jogo de RPG Online 
+<p align="center">
+  <img src="assets/jogoimagem.gif" width="500px" alt="Demonstração do Jogo">
+</p>
 
 Projeto desenvolvido para a criação e estruturação do banco de dados relacional de um jogo de RPG online utilizando **SQL Server (T-SQL)**.
 
